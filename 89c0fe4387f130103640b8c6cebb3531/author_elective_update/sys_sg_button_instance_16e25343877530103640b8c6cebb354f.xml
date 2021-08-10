@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Edit Button (Shopping Item)">3f48328f87f130103640b8c6cebb35cb</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Edit Item</label>
+        <location>top</location>
+        <name>Edit Item</name>
+        <order>10</order>
+        <parent>6b48328f87f130103640b8c6cebb3597</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-10 22:25:04</sys_created_on>
+        <sys_id>16e25343877530103640b8c6cebb354f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit Item</sys_name>
+        <sys_package display_value="Shopping List" source="x_604544_shopping">89c0fe4387f130103640b8c6cebb3531</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">89c0fe4387f130103640b8c6cebb3531</sys_scope>
+        <sys_update_name>sys_sg_button_instance_16e25343877530103640b8c6cebb354f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-10 22:25:04</sys_updated_on>
+        <table>x_604544_shopping_shopping_item</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=16e25343877530103640b8c6cebb354f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shopping List">89c0fe4387f130103640b8c6cebb3531</application>
+        <file_path/>
+        <instance_id>22415431db5b1b80536ad5b0cf9619c3</instance_id>
+        <instance_name>dev64898</instance_name>
+        <name>sys_sg_button_instance_16e25343877530103640b8c6cebb354f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Edit Button (Shopping Item)">3f48328f87f130103640b8c6cebb35cb</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>Edit Item</label><location>top</location><name>Edit Item</name><order>10</order><parent>6b48328f87f130103640b8c6cebb3597</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-10 22:25:04</sys_created_on><sys_id>16e25343877530103640b8c6cebb354f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Edit Item</sys_name><sys_package display_value="Shopping List" source="x_604544_shopping">89c0fe4387f130103640b8c6cebb3531</sys_package><sys_policy/><sys_scope display_value="Shopping List">89c0fe4387f130103640b8c6cebb3531</sys_scope><sys_update_name>sys_sg_button_instance_16e25343877530103640b8c6cebb354f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-10 22:25:04</sys_updated_on><table>x_604544_shopping_shopping_item</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=16e25343877530103640b8c6cebb354f"/></record_update>]]></payload>
+        <payload_hash>-535266242</payload_hash>
+        <record_name>Edit Item</record_name>
+        <reverted_from/>
+        <source>5f6157cf873530103640b8c6cebb3570</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-10 22:25:04</sys_created_on>
+        <sys_id>26e25343877530103640b8c6cebb3553</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b322b4e780000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-10 22:25:04</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>2ee25343c77530106d2a6f5d96396a52</update_guid>
+        <update_guid_history>2ee25343c77530106d2a6f5d96396a52:-535266242</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-10 22:25:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>7bef1b9401bb4c20bce8923ab5bd91c9</sys_id>
+        <sys_metadata>16e25343877530103640b8c6cebb354f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit Item</sys_name>
+        <sys_package display_value="Shopping List" source="x_604544_shopping">89c0fe4387f130103640b8c6cebb3531</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">89c0fe4387f130103640b8c6cebb3531</sys_scope>
+        <sys_scope_delete display_value="">13a723846455468c8be3c9cc8a041649</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_16e25343877530103640b8c6cebb354f</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_16e25343877530103640b8c6cebb354f">26e25343877530103640b8c6cebb3553</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-10 22:25:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
